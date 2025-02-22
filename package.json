@@ -1,8 +1,8 @@
 {
-  "name": "ARIF-BABU",
+  "name": "BaYjid",
   "version": "10.1.1",
-  "description": "MADE BY ARIF BABU 🥀",
-  "main": "ARIF-BABU.js",
+  "description": "MADE BY MOHAMMAD BAYJID ",
+  "main": "BAYJID.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
@@ -22,11 +22,11 @@
       "project",
       "messenger",
       "javasvript",
-      "arif",
+      "bayjid",
       "prince",
       "mental"
   ],
-  "author": "ARIF-BABU 🥀",
+  "author": "BaYjid",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/arif-11/arif-bot/issues"
