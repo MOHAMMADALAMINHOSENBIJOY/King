@@ -16,25 +16,25 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "SOBUJ-2.0",
+    "BOTNAME": "•─❛🪄✰লুঁচ্চাঁ-༎-𝐂-𝐄-𝐎✨🍒🤙",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61569606461431",
+        "61572930974640",
         "",
         "",
         ""
     ],
     "NDH": [
-        "100091375510332",
-        "100066078952261",
-        "100095472423143"
+        "61572930974640",
+        "61572930974640",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "ARIF-BABU.json",
+    "APPSTATEPATH": "BAYJID.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
